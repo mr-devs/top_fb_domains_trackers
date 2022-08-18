@@ -15,7 +15,6 @@ Author: Matthew DeVerna
 import argparse
 import datetime
 import json
-import os
 
 import pandas as pd
 
